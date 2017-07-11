@@ -38,11 +38,20 @@ A curated list of [Telegram](https://telegram.org)-related projects and pages in
 * [TL-Elixir](https://gitlab.com/snippets/1664390) - Elixir
 * [Vail](https://github.com/JuanPotato/Vail) - Rust
 
-## Official clients
+## Clients
+
+### Official
 * [Telegram Desktop](https://desktop.telegram.org) ([Source](https://github.com/telegramdesktop/tdesktop))
 * [Telegram for Android](https://play.google.com/store/apps/details?id=org.telegram.messenger) ([Source](https://github.com/DrKLO/Telegram))
 * [Telegram for iOS](https://itunes.apple.com/gb/app/telegram-messenger/id686449807?mt=8) ([Source](https://github.com/peter-iakovlev/Telegram))
 * [Webogram](https://web.telegram.org) ([Source](https://github.com/zhukov/webogram)) - Web client
+
+### Community
+* [Cutegram](http://aseman.co/en/products/cutegram/)
+* [telegram-cli](https://github.com/vysheng/tg) - Command-line client
+* [TReact](https://github.com/goodmind/treact) - ReactJS frontend
+* [Unigram](https://github.com/UnigramDev/Unigram) - Telegram for the Windows 10 platform
+
 
 ## Schemas
 * [Bot API Schema](https://github.com/tranql/telegram-bot-api-schema) - Bot API schema
