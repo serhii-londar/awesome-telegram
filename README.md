@@ -1,5 +1,5 @@
 # Awesome Telegram
-A curated list of Telegram-related projects and pages in alphabetical order.
+A curated list of [Telegram](https://telegram.org)-related projects and pages in alphabetical order.
 
 - [Awesome Telegram](#awesome-telegram)
   - [API Documentation](#api-documentation)
