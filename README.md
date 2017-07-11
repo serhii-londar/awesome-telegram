@@ -4,8 +4,8 @@ A curated list of [Telegram](https://telegram.org)-related projects and pages in
 - [Awesome Telegram](#awesome-telegram)
   - [API Documentation](#api-documentation)
   - [Bot Libraries](#bot-libraries)
-  - [Official Clients](#official-clients)
   - [MTProto implementations](#mtproto-implementations)
+  - [Official Clients](#official-clients)
   - [Schemas](#schemas)
   
 ## API Documentation
