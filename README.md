@@ -32,8 +32,9 @@ A curated list of [Telegram](https://telegram.org)-related projects and pages in
 
 * [Kotlogram](https://github.com/badoualy/kotlogram) - Kotlin
 * [MadelineProto](https://github.com/danog/MadelineProto) - PHP
-* [telegram-mtproto](https://github.com/zerobias/telegram-mtproto) - JavaScript
 * [telegram-cli](https://github.com/vysheng/tg) - C with Lua and Python support
+* [telegram-mtproto](https://github.com/zerobias/telegram-mtproto) - JavaScript
+* [telegram-purple](https://github.com/majn/telegram-purple) - libpurple protocol plugin
 * [Telethon](https://github.com/LonamiWebs/Telethon) - Python
 * [TL-Elixir](https://gitlab.com/snippets/1664390) - Elixir
 * [Vail](https://github.com/JuanPotato/Vail) - Rust
