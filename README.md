@@ -22,6 +22,7 @@ A curated list of [Telegram](https://telegram.org)-related projects and pages in
 * [morse](https://github.com/Otann/morse) - Clojure
 * [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) - NodeJS
 * [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - Python
+* [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI/) - Python
 * [Telebot](https://github.com/KnairdA/Telebot) - Scheme
 * [telegram-bot-ruby](https://github.com/atipugin/telegram-bot-ruby) - Ruby
 * [TelegramBots](https://github.com/rubenlagus/TelegramBots) - Java
