@@ -4,9 +4,10 @@ A curated list of [Telegram](https://telegram.org)-related projects and pages in
 - [Awesome Telegram](#awesome-telegram)
   - [API Documentation](#api-documentation)
   - [Bot Libraries](#bot-libraries)
+  - [Clients](#clients)
   - [MTProto implementations](#mtproto-implementations)
-  - [Official Clients](#official-clients)
   - [Schemas](#schemas)
+  - [Misc](#misc)
   
 ## API Documentation
 * [Bot API](https://core.telegram.org/bots/api)
@@ -30,17 +31,6 @@ A curated list of [Telegram](https://telegram.org)-related projects and pages in
 * [TelegraML](https://github.com/nv-vn/TelegraML) - OCaml
 * [x86_64-asm-tgbot](https://github.com/StefanoBelli/x86_64-asm-tgbot) - x86_64 assembly language
 
-## MTProto implementations
-
-* [Kotlogram](https://github.com/badoualy/kotlogram) - Kotlin
-* [MadelineProto](https://github.com/danog/MadelineProto) - PHP
-* [telegram-cli](https://github.com/vysheng/tg) - C with Lua and Python support
-* [telegram-mtproto](https://github.com/zerobias/telegram-mtproto) - JavaScript
-* [telegram-purple](https://github.com/majn/telegram-purple) - libpurple protocol plugin
-* [Telethon](https://github.com/LonamiWebs/Telethon) - Python
-* [TL-Elixir](https://gitlab.com/snippets/1664390) - Elixir
-* [Vail](https://github.com/JuanPotato/Vail) - Rust
-
 ## Clients
 
 ### Official
@@ -55,7 +45,20 @@ A curated list of [Telegram](https://telegram.org)-related projects and pages in
 * [TReact](https://github.com/goodmind/treact) - ReactJS frontend
 * [Unigram](https://github.com/UnigramDev/Unigram) - Telegram for the Windows 10 platform
 
+## MTProto implementations
+
+* [Kotlogram](https://github.com/badoualy/kotlogram) - Kotlin
+* [MadelineProto](https://github.com/danog/MadelineProto) - PHP
+* [telegram-cli](https://github.com/vysheng/tg) - C with Lua and Python support
+* [telegram-mtproto](https://github.com/zerobias/telegram-mtproto) - JavaScript
+* [telegram-purple](https://github.com/majn/telegram-purple) - libpurple protocol plugin
+* [Telethon](https://github.com/LonamiWebs/Telethon) - Python
+* [TL-Elixir](https://gitlab.com/snippets/1664390) - Elixir
+* [Vail](https://github.com/JuanPotato/Vail) - Rust
 
 ## Schemas
 * [Bot API Schema](https://github.com/tranql/telegram-bot-api-schema) - Bot API schema
 * [TL-Schema](https://github.com/stek29/tl-schema) - TL MTProto schema
+
+## Misc
+* [libtgvoip](https://github.com/grishka/libtgvoip) - VoIP library for Telegram clients
