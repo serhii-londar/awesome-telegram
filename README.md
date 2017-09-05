@@ -8,7 +8,7 @@ A curated list of [Telegram](https://telegram.org)-related projects and pages in
   - [MTProto implementations](#mtproto-implementations)
   - [Schemas](#schemas)
   - [Misc](#misc)
-  
+
 ## API Documentation
 * [Bot API](https://core.telegram.org/bots/api)
 * [MTProto](https://core.telegram.org/mtproto)
@@ -30,6 +30,8 @@ A curated list of [Telegram](https://telegram.org)-related projects and pages in
 * [TelegramBots](https://github.com/rubenlagus/TelegramBots) - Java
 * [TelegraML](https://github.com/nv-vn/TelegraML) - OCaml
 * [x86_64-asm-tgbot](https://github.com/StefanoBelli/x86_64-asm-tgbot) - x86_64 assembly language
+* [SwiftyBot](https://github.com/FabrizioBrancati/SwiftyBot) - Telegram & Facebook Messenger bot with Swift
+* [telegram-bot-swift](https://github.com/zmeyc/telegram-bot-swift) - Telegram Bot SDK for Swift (unofficial)
 
 ## Clients
 
