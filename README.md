@@ -1,5 +1,10 @@
 # Awesome Telegram
+
 A curated list of [Telegram](https://telegram.org)-related projects and pages in alphabetical order.
+
+Telegram is a messaging app with a focus on speed and security, it’s super-fast, simple and free. You can use Telegram on all your devices at the same time — your messages sync seamlessly across any number of your phones, tablets or computers.
+
+## Contents
 
 - [Awesome Telegram](#awesome-telegram)
   - [API Documentation](#api-documentation)
