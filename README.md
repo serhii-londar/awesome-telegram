@@ -20,26 +20,26 @@ Telegram is a messaging app with a focus on speed and security, it’s super-fas
 
 ## Bot Libraries
 
-* [cl-telegram-bot](https://github.com/sovietspaceship/cl-telegram-bot) - Common Lisp
-* [cycle-telegram](https://github.com/goodmind/cycle-telegram) - Cycle.js driver
-* [etelegram](https://github.com/tnt-dev/etelegram) - Erlang
-* [haskell-telegram-api](http://github.com/klappvisor/haskell-telegram-api) - Haskell
-* [libtelegram](https://github.com/slowriot/libtelegram) - C++
-* [morse](https://github.com/Otann/morse) - Clojure
-* [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) - NodeJS
-* [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - Python
-* [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI/) - Python
-* [PHP Telegram Bot](https://github.com/php-telegram-bot/core) - PHP
-* [Telebot](https://github.com/KnairdA/Telebot) - Scheme
-* [telegram-bot-ruby](https://github.com/atipugin/telegram-bot-ruby) - Ruby
-* [TelegramBots](https://github.com/rubenlagus/TelegramBots) - Java
-* [TelegraML](https://github.com/nv-vn/TelegraML) - OCaml
-* [x86_64-asm-tgbot](https://github.com/StefanoBelli/x86_64-asm-tgbot) - x86_64 assembly language
-* [SwiftyBot](https://github.com/FabrizioBrancati/SwiftyBot) - Telegram & Facebook Messenger bot with Swift
-* [telegram-bot-swift](https://github.com/zmeyc/telegram-bot-swift) - Telegram Bot SDK for Swift (unofficial)
-* [telegram-bot-rust](https://github.com/telegram-rs/telegram-bot) - Rust Library for creating a Telegram Bot
-* [node-telegram-bot](https://github.com/oott123/node-telegram-bot) - Create your own Telegram bot in minutes with CoffeScript/JS
-* [telebot](https://github.com/yukuku/telebot) - Telegram Bot starter kit
+* [cl-telegram-bot](https://github.com/sovietspaceship/cl-telegram-bot) - `Common Lisp`
+* [cycle-telegram](https://github.com/goodmind/cycle-telegram) - `Typescript` Cycle.js Driver for Telegram Bot API
+* [etelegram](https://github.com/tnt-dev/etelegram) - `Erlang`
+* [haskell-telegram-api](http://github.com/klappvisor/haskell-telegram-api) - `Haskell` High-level bindings to the Telegram Bot API based on servant library
+* [libtelegram](https://github.com/slowriot/libtelegram) - `C++` Fast, efficient, header-only C++ Telegram bot API library using FastCGI
+* [morse](https://github.com/Otann/morse) - `Clojure`
+* [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) - `JavaScript` Telegram Bot API for NodeJS
+* [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - `Python` Compatible with Python versions 2.7, 3.3+ and PyPy 
+* [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI/) - `Python` Compatible with Python 2.6, Python 2.7, Python 3.4, Pypy and Pypy 3
+* [PHP Telegram Bot](https://github.com/php-telegram-bot/core) - `PHP` 
+* [Telebot](https://github.com/KnairdA/Telebot) - `Scheme`
+* [telegram-bot-ruby](https://github.com/atipugin/telegram-bot-ruby) - `Ruby`
+* [TelegramBots](https://github.com/rubenlagus/TelegramBots) - `Java`
+* [TelegraML](https://github.com/nv-vn/TelegraML) - `OCaml`
+* [x86_64-asm-tgbot](https://github.com/StefanoBelli/x86_64-asm-tgbot) - `x86_64 assembly`
+* [SwiftyBot](https://github.com/FabrizioBrancati/SwiftyBot) - `Swift` Telegram & Facebook Messenger bot with Swift
+* [telegram-bot-swift](https://github.com/zmeyc/telegram-bot-swift) - `Swift` Telegram Bot SDK for Swift (unofficial)
+* [telegram-bot-rust](https://github.com/telegram-rs/telegram-bot) - `Rust`
+* [node-telegram-bot](https://github.com/oott123/node-telegram-bot) - `CoffeeScript` Create your own Telegram bot in minutes with CoffeScript/JS
+* [telebot](https://github.com/yukuku/telebot) - `Python` Telegram Bot starter kit
 
 ## Clients
 
