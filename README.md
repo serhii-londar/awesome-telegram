@@ -14,6 +14,7 @@ Telegram is a messaging app with a focus on speed and security, it’s super-fas
   - [Misc](#misc)
 
 ## API Documentation
+
 * [Bot API](https://core.telegram.org/bots/api)
 * [MTProto](https://core.telegram.org/mtproto)
 
@@ -36,6 +37,9 @@ Telegram is a messaging app with a focus on speed and security, it’s super-fas
 * [x86_64-asm-tgbot](https://github.com/StefanoBelli/x86_64-asm-tgbot) - x86_64 assembly language
 * [SwiftyBot](https://github.com/FabrizioBrancati/SwiftyBot) - Telegram & Facebook Messenger bot with Swift
 * [telegram-bot-swift](https://github.com/zmeyc/telegram-bot-swift) - Telegram Bot SDK for Swift (unofficial)
+* [telegram-bot-rust](https://github.com/telegram-rs/telegram-bot) - Rust Library for creating a Telegram Bot
+* [node-telegram-bot](https://github.com/oott123/node-telegram-bot) - Create your own Telegram bot in minutes with CoffeScript/JS
+* [telebot](https://github.com/yukuku/telebot) - Telegram Bot starter kit
 
 ## Clients
 
@@ -50,6 +54,7 @@ Telegram is a messaging app with a focus on speed and security, it’s super-fas
 * [telegram-cli](https://github.com/vysheng/tg) - Command-line client
 * [TReact](https://github.com/goodmind/treact) - ReactJS frontend
 * [Unigram](https://github.com/UnigramDev/Unigram) - Telegram for the Windows 10 platform
+* [Deepthought](https://github.com/rubenlagus/Deepthought) - Telegram Client written in Java to support multiple custom implementations
 
 ## MTProto implementations
 
@@ -63,8 +68,10 @@ Telegram is a messaging app with a focus on speed and security, it’s super-fas
 * [Vail](https://github.com/JuanPotato/Vail) - Rust
 
 ## Schemas
+
 * [Bot API Schema](https://github.com/tranql/telegram-bot-api-schema) - Bot API schema
 * [TL-Schema](https://github.com/stek29/tl-schema) - TL MTProto schema
 
 ## Misc
+
 * [libtgvoip](https://github.com/grishka/libtgvoip) - VoIP library for Telegram clients
