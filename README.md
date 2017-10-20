@@ -40,6 +40,7 @@ Telegram is a messaging app with a focus on speed and security, it’s super-fas
 * [telegram-bot-rust](https://github.com/telegram-rs/telegram-bot) - `Rust`
 * [node-telegram-bot](https://github.com/oott123/node-telegram-bot) - `CoffeeScript` Create your own Telegram bot in minutes with CoffeScript/JS
 * [telebot](https://github.com/yukuku/telebot) - `Python` Telegram Bot starter kit
+* [telegram-node-bot](https://github.com/Naltox/telegram-node-bot) - `JavaScript` Node module for creating Telegram bots
 
 ## Clients
 
