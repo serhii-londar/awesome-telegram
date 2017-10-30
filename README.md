@@ -76,3 +76,7 @@ Telegram is a messaging app with a focus on speed and security, it’s super-fas
 ## Misc
 
 * [libtgvoip](https://github.com/grishka/libtgvoip) - VoIP library for Telegram clients
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
