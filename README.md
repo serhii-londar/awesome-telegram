@@ -62,6 +62,7 @@ Telegram is a messaging app with a focus on speed and security, it’s super-fas
 * [Kotlogram](https://github.com/badoualy/kotlogram) - `Java/Kotlin`
 * [MadelineProto](https://github.com/danog/MadelineProto) - `PHP`
 * [mtproto2json](https://github.com/nikat/mtproto2json) - `Python` MTProto/JSON proxy server
+* [Pyrogram](https://github.com/pyrogram/pyrogram) - `Python` Telegram MTProto API Client Library for Python
 * [telegram-cli](https://github.com/vysheng/tg) - `C` with Lua and Python support
 * [telegram-mtproto](https://github.com/zerobias/telegram-mtproto) - `JavaScript`
 * [telegram-purple](https://github.com/majn/telegram-purple) - `C` libpurple protocol plugin
