@@ -56,6 +56,7 @@ Telegram is a messaging app with a focus on speed and security, it’s super-fas
 * [TReact](https://github.com/goodmind/treact) - ReactJS frontend
 * [Unigram](https://github.com/UnigramDev/Unigram) - Telegram for the Windows 10 platform
 * [Deepthought](https://github.com/rubenlagus/Deepthought) - Telegram Client written in Java to support multiple custom implementations
+* [TelegramTUI](https://github.com/bad-day/TelegramTUI) - Telegram client on your console
 
 ## MTProto implementations
 
