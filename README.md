@@ -40,6 +40,7 @@ Telegram is a messaging app with a focus on speed and security, it’s super-fas
 * [telegram-bot-rust](https://github.com/telegram-rs/telegram-bot) - `Rust`
 * [telegram-bot-swift](https://github.com/zmeyc/telegram-bot-swift) - `Swift` Telegram Bot SDK for Swift (unofficial)
 * [telegram-node-bot](https://github.com/Naltox/telegram-node-bot) - `JavaScript` Node module for creating Telegram bots
+* [telegram.bot](https://github.com/TelegramBots/telegram.bot) - `C#` .NET Client for Telegram Bot API
 * [x86_64-asm-tgbot](https://github.com/StefanoBelli/x86_64-asm-tgbot) - `x86_64 assembly`
 
 ## Clients
