@@ -11,6 +11,7 @@ Telegram is a messaging app with a focus on speed and security, it’s super-fas
   - [Clients](#clients)
   - [MTProto implementations](#mtproto-implementations)
   - [Schemas](#schemas)
+  - [MTProto Proxy](#mtproto-proxy)
   - [Misc](#misc)
 
 ## API Documentation
@@ -76,6 +77,11 @@ Telegram is a messaging app with a focus on speed and security, it’s super-fas
 
 * [Bot API Schema](https://github.com/tranql/telegram-bot-api-schema) - Bot API schema
 * [TL-Schema](https://github.com/stek29/tl-schema) - TL MTProto schema
+
+## MTProto Proxy
+* [MTProxy](https://github.com/TelegramMessenger/MTProxy) - Official MTProxy, written in C
+* [mtprotoproxy](https://github.com/alexbers/mtprotoproxy) - Unofficial MTProxy, written in Python
+* [mtproto_proxy](https://github.com/seriyps/mtproto_proxy) - Unofficial MTProxy, written in Erlang
 
 ## Misc
 
