@@ -21,6 +21,7 @@ Telegram is a messaging app with a focus on speed and security, it’s super-fas
 
 ## Bot Libraries
 
+* [botstan API](https://github.com/botstan/API) - `PHP` HTTP-based interface created for developers keen on building bots for Telegram
 * [cl-telegram-bot](https://github.com/sovietspaceship/cl-telegram-bot) - `Common Lisp`
 * [cycle-telegram](https://github.com/goodmind/cycle-telegram) - `Typescript` Cycle.js Driver for Telegram Bot API
 * [etelegram](https://github.com/tnt-dev/etelegram) - `Erlang`
@@ -41,7 +42,9 @@ Telegram is a messaging app with a focus on speed and security, it’s super-fas
 * [telegram-bot-rust](https://github.com/telegram-rs/telegram-bot) - `Rust`
 * [telegram-bot-swift](https://github.com/zmeyc/telegram-bot-swift) - `Swift` Telegram Bot SDK for Swift (unofficial)
 * [telegram-node-bot](https://github.com/Naltox/telegram-node-bot) - `JavaScript` Node module for creating Telegram bots
+* [Telegram-PHP](https://github.com/duhow/Telegram-PHP) - `PHP`
 * [telegram.bot](https://github.com/TelegramBots/telegram.bot) - `C#` .NET Client for Telegram Bot API
+* [telepot](https://github.com/nickoala/telepot) - `Python`
 * [x86_64-asm-tgbot](https://github.com/StefanoBelli/x86_64-asm-tgbot) - `x86_64 assembly`
 
 ## Clients
