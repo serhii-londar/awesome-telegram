@@ -17,6 +17,7 @@ Telegram is a messaging app with a focus on speed and security, it’s super-fas
 ## API Documentation
 
 * [Bot API](https://core.telegram.org/bots/api)
+* [Database library](https://core.telegram.org/tdlib/docs/index.html)
 * [MTProto](https://core.telegram.org/mtproto)
 
 ## Bot Libraries
