@@ -48,7 +48,7 @@ Telegram is a messaging app with a focus on speed and security, it’s super-fas
 * [telegram.bot](https://github.com/TelegramBots/telegram.bot) - `C#` .NET Client for Telegram Bot API
 * [telepot](https://github.com/nickoala/telepot) - `Python`
 * [x86_64-asm-tgbot](https://github.com/StefanoBelli/x86_64-asm-tgbot) - `x86_64 assembly`
-* [TelegramBotAPI](https://github.com/InsanusMokrassar/TelegramBotAPI) - Kotlin bot API library
+* [TelegramBotAPI](https://github.com/InsanusMokrassar/TelegramBotAPI) - `Kotlin` bot API library
 
 ## Clients
 
