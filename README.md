@@ -66,7 +66,7 @@ Telegram is a messaging app with a focus on speed and security, it’s super-fas
 * [TelegramTUI](https://github.com/bad-day/TelegramTUI) - Telegram client on your console
 
 ## MTProto implementations
-
+* [Airgram](https://github.com/airgram/airgram) - `TypeScript/JavaScript` modern Telegram Client Framework
 * [Kotlogram](https://github.com/badoualy/kotlogram) - `Java/Kotlin`
 * [MadelineProto](https://github.com/danog/MadelineProto) - `PHP`
 * [mtproto2json](https://github.com/nikat/mtproto2json) - `Python` MTProto/JSON proxy server
