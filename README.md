@@ -38,6 +38,7 @@ Telegram is a messaging app with a focus on speed and security, it’s super-fas
 * [Telebot](https://github.com/KnairdA/Telebot) - `Scheme`
 * [telebot](https://github.com/yukuku/telebot) - `Python` Telegram Bot starter kit
 * [telebot](https://github.com/tucnak/telebot) - `Go`
+* [TeleDart](https://github.com/DinoLeung/TeleDart) - `Dart` A dart library interfacing with the latest Telegram Bot API.
 * [TelegramBots](https://github.com/rubenlagus/TelegramBots) - `Java`
 * [TelegraML](https://github.com/nv-vn/TelegraML) - `OCaml`
 * [telegram-bot-ruby](https://github.com/atipugin/telegram-bot-ruby) - `Ruby`
