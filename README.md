@@ -10,6 +10,7 @@ Telegram is a messaging app with a focus on speed and security, it’s super-fas
   - [Bot Libraries](#bot-libraries)
   - [Clients](#clients)
   - [MTProto implementations](#mtproto-implementations)
+  - [TDLib implementations](#tdlib-implementations)
   - [Schemas](#schemas)
   - [MTProto Proxy](#mtproto-proxy)
   - [Misc](#misc)
@@ -68,7 +69,7 @@ Telegram is a messaging app with a focus on speed and security, it’s super-fas
 * [TelegramTUI](https://github.com/bad-day/TelegramTUI) - Telegram client on your console
 
 ## MTProto implementations
-* [Airgram](https://github.com/airgram/airgram) - `TypeScript/JavaScript` modern Telegram Client Framework
+* [Airgram](https://github.com/airgram/airgram/tree/mtproto) - `TypeScript/JavaScript` modern Telegram Client Framework
 * [Kotlogram](https://github.com/badoualy/kotlogram) - `Java/Kotlin`
 * [MadelineProto](https://github.com/danog/MadelineProto) - `PHP`
 * [mtproto2json](https://github.com/nikat/mtproto2json) - `Python` MTProto/JSON proxy server
@@ -80,8 +81,10 @@ Telegram is a messaging app with a focus on speed and security, it’s super-fas
 * [TL-Elixir](https://gitlab.com/snippets/1664390) - `Elixir`
 * [Vail](https://github.com/JuanPotato/Vail) - `Rust`
 
-## Schemas
+## TDLib implementations
+* [Airgram](https://github.com/airgram/airgram) - `TypeScript/JavaScript` modern TDLib Client Framework
 
+## Schemas
 * [Bot API Schema](https://github.com/tranql/telegram-bot-api-schema) - Bot API schema
 * [TL-Schema](https://github.com/stek29/tl-schema) - TL MTProto schema
 
