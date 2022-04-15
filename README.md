@@ -57,6 +57,7 @@ A curated list of [Telegram](https://telegram.org)-related projects and pages in
 * [Telethon](https://github.com/LonamiWebs/Telethon) - Python
 * [TL-Elixir](https://gitlab.com/snippets/1664390) - Elixir
 * [Vail](https://github.com/JuanPotato/Vail) - Rust
+* [WTelegramClient](https://github.com/wiz0u/WTelegramClient) - `C#/.NET` Full-featured modern Client API library
 
 ## Schemas
 * [Bot API Schema](https://github.com/tranql/telegram-bot-api-schema) - Bot API schema
