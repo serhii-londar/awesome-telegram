@@ -64,3 +64,4 @@ A curated list of [Telegram](https://telegram.org)-related projects and pages in
 
 ## Misc
 * [libtgvoip](https://github.com/grishka/libtgvoip) - VoIP library for Telegram clients
+* [Telegram Media Downloader](https://github.com/rfsbraz/telegram-downloader) - Self-hosted daemon for automatic media downloading from Telegram channels and groups.
