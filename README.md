@@ -32,6 +32,7 @@ A curated list of [Telegram](https://telegram.org)-related projects and pages in
 * [x86_64-asm-tgbot](https://github.com/StefanoBelli/x86_64-asm-tgbot) - x86_64 assembly language
 * [SwiftyBot](https://github.com/FabrizioBrancati/SwiftyBot) - Telegram & Facebook Messenger bot with Swift
 * [telegram-bot-swift](https://github.com/zmeyc/telegram-bot-swift) - Telegram Bot SDK for Swift (unofficial)
+- [TeleGet](https://github.com/xwc9527/TeleGet) - High-speed Telegram file downloader SDK with multi-connection parallel downloading.
 
 ## Clients
 
