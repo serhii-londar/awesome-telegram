@@ -1,7 +1,6 @@
 # Awesome Telegram
 A curated list of [Telegram](https://telegram.org)-related projects and pages in alphabetical order.
 
-
 - [Awesome Telegram](#awesome-telegram)
   - [API Documentation](#api-documentation)
   - [Bot Libraries](#bot-libraries)
@@ -10,14 +9,11 @@ A curated list of [Telegram](https://telegram.org)-related projects and pages in
   - [Schemas](#schemas)
   - [Misc](#misc)
 
-
 ## API Documentation
 * [Bot API](https://core.telegram.org/bots/api)
 * [MTProto](https://core.telegram.org/mtproto)
 
-
 ## Bot Libraries
-
 
 * [cl-telegram-bot](https://github.com/sovietspaceship/cl-telegram-bot) - Common Lisp
 * [cycle-telegram](https://github.com/goodmind/cycle-telegram) - Cycle.js driver
@@ -37,16 +33,13 @@ A curated list of [Telegram](https://telegram.org)-related projects and pages in
 * [SwiftyBot](https://github.com/FabrizioBrancati/SwiftyBot) - Telegram & Facebook Messenger bot with Swift
 * [telegram-bot-swift](https://github.com/zmeyc/telegram-bot-swift) - Telegram Bot SDK for Swift (unofficial)
 
-
 ## Clients
-
 
 ### Official
 * [Telegram Desktop](https://desktop.telegram.org) ([Source](https://github.com/telegramdesktop/tdesktop))
 * [Telegram for Android](https://play.google.com/store/apps/details?id=org.telegram.messenger) ([Source](https://github.com/DrKLO/Telegram))
 * [Telegram for iOS](https://itunes.apple.com/gb/app/telegram-messenger/id686449807?mt=8) ([Source](https://github.com/peter-iakovlev/Telegram))
 * [Webogram](https://web.telegram.org) ([Source](https://github.com/zhukov/webogram)) - Web client
-
 
 ### Community
 * [ALinkgram](https://alinkgram.com) - Unofficial third-party Telegram client for iPhone with spam filter, saved-message folders and NAS auto-save. Free on the App Store.
@@ -55,9 +48,7 @@ A curated list of [Telegram](https://telegram.org)-related projects and pages in
 * [TReact](https://github.com/goodmind/treact) - ReactJS frontend
 * [Unigram](https://github.com/UnigramDev/Unigram) - Telegram for the Windows 10 platform
 
-
 ## MTProto implementations
-
 
 * [Kotlogram](https://github.com/badoualy/kotlogram) - Kotlin
 * [MadelineProto](https://github.com/danog/MadelineProto) - PHP
@@ -68,12 +59,9 @@ A curated list of [Telegram](https://telegram.org)-related projects and pages in
 * [TL-Elixir](https://gitlab.com/snippets/1664390) - Elixir
 * [Vail](https://github.com/JuanPotato/Vail) - Rust
 
-
 ## Schemas
 * [Bot API Schema](https://github.com/tranql/telegram-bot-api-schema) - Bot API schema
 * [TL-Schema](https://github.com/stek29/tl-schema) - TL MTProto schema
 
-
 ## Misc
 * [libtgvoip](https://github.com/grishka/libtgvoip) - VoIP library for Telegram clients
-
