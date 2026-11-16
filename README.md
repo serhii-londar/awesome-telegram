@@ -42,6 +42,7 @@ A curated list of [Telegram](https://telegram.org)-related projects and pages in
 * [Webogram](https://web.telegram.org) ([Source](https://github.com/zhukov/webogram)) - Web client
 
 ### Community
+* [ALinkgram](https://alinkgram.com) - Unofficial third-party Telegram client for iPhone with spam filter, saved-message folders and NAS auto-save. Free on the App Store.
 * [Cutegram](http://aseman.co/en/products/cutegram/)
 * [telegram-cli](https://github.com/vysheng/tg) - Command-line client
 * [TReact](https://github.com/goodmind/treact) - ReactJS frontend
